@@ -1,6 +1,7 @@
-# play_with_git
+# Hello, is it me you're looking for?
 
-This is a repo for testing, playing, cheering and whining.
-
-Fork it, play with it and improve it!
-
+## I'm never going to
+* give you up
+* let you down
+* run around
+* desert you
