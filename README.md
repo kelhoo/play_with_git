@@ -6,3 +6,6 @@
 * tell a lie
 * run around
 * desert you
+
+My lovely Cat !
+![Funny Cat](funny_cat.jpg)
